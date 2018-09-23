@@ -28,5 +28,5 @@ Advisor George Drosatos.
 
 # Acknowledgments
 Libraries used for these projects where
-https://github.com/PhilJay/MPAndroidChart
-https://github.com/square/okhttp
+- https://github.com/PhilJay/MPAndroidChart
+- https://github.com/square/okhttp
